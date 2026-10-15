@@ -15,6 +15,21 @@ O repositório explora diferentes ecossistemas de hardware e software para desen
 
 ---
 
+## 📁 Estrutura do Repositório
+
+O repositório está organizado por pastas temáticas correspondentes a práticas, experimentos e protótipos de hardware:
+
+```text
+├── README.md
+├── Projeto da Materia/      
+├── Relatório 1/      
+├── Relatório 2/               
+├── Roteiros Praticos/
+└── Roteiros de Introducao e Resumo/
+```
+
+---
+
 ## Participantes 
 
 O Reposítorio tem como colabores alguns participantes do grupo para as práticas e projetos
