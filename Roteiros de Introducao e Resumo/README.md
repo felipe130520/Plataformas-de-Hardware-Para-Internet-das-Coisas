@@ -12,5 +12,5 @@ Abaixo está a organização típica dos arquivos presentes nesta pasta:
 Roteiros de Introducao e Resumo/
 ├── README.md                     
 ├── Roteiro 1/               # PDFs original da atividade e sua resposta
-└── Roteiro 2/               # PDFs original da atividade
+└── Roteiro 2/               # PDFs original da atividade e sua resposta
 ```
