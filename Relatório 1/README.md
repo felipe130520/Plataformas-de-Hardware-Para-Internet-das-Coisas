@@ -6,7 +6,7 @@ Este documento e seus arquivos associados detalham a primeira prática/estudo av
 
 ## 📋 Sobre o Projeto
 
-Este repositório contém a documentação, códigos e arquivos de suporte referentes ao primeiro relatório prático da disciplina. O objetivo principal é explorar as características de hardware, arquitetura, pinagem, consumo energético e capacidade de processamento de plataformas voltadas para a Internet das Coisas.
+Este repositório contém a documentação, códigos e arquivos de suporte referentes ao primeiro relatório avaliativo da disciplina. O objetivo principal é explorar as características de hardware, arquitetura, pinagem, consumo energético e capacidade de processamento de plataformas voltadas para a Internet das Coisas.
 
 ---
 
@@ -17,11 +17,11 @@ Abaixo está a organização típica dos arquivos presentes nesta pasta:
 ```text
 Relatório 1/
 ├── README.md                     
-├── codiArquivos Wokwi/           # Códigos-fonte desenvolvidos
+├── HIoT_06.pdf                   # Slide com as instruções da atividade
+├── Arquivos Wokwi/               # Códigos-fonte desenvolvidos
 └── imagens/                      # Fotos da montagem 
 ```
 
-*(Nota: Ajuste os diretórios acima conforme os arquivos reais presentes na sua pasta.)*
 
 ---
 
